@@ -1,0 +1,5 @@
+{
+  "best_run_id": "logreg_tuned_seed42_1761367619",
+  "model": "logreg",
+  "source": "hyperparameter_tuning_notebook_07"
+}

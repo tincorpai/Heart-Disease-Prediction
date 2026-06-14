@@ -1,0 +1,14 @@
+{
+  "run_id": "xgb_tuned_seed42_1761367619",
+  "val_auc": 0.9481605351170568,
+  "val_ap": 0.9532207171994258,
+  "best_params": {
+    "model__subsample": 0.7,
+    "model__reg_lambda": 5.0,
+    "model__reg_alpha": 0.5,
+    "model__n_estimators": 500,
+    "model__max_depth": 3,
+    "model__learning_rate": 0.01,
+    "model__colsample_bytree": 1.0
+  }
+}
