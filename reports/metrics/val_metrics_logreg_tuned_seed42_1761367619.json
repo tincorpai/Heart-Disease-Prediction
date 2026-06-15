@@ -1,0 +1,10 @@
+{
+  "run_id": "logreg_tuned_seed42_1761367619",
+  "val_auc": 0.9648829431438126,
+  "val_ap": 0.9663800295076592,
+  "best_params": {
+    "model__solver": "liblinear",
+    "model__class_weight": null,
+    "model__C": 0.12742749857031335
+  }
+}

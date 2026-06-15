@@ -1,0 +1,37 @@
+{
+  "run_id": "logreg_tuned_seed42_1761367619",
+  "artifact": "heart_model_logreg_tuned_seed42_1761367619.pkl",
+  "features_order": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "dtypes": {
+    "age": "<class 'float'>",
+    "sex": "<class 'int'>",
+    "cp": "<class 'int'>",
+    "trestbps": "<class 'float'>",
+    "chol": "<class 'float'>",
+    "fbs": "<class 'int'>",
+    "restecg": "<class 'int'>",
+    "thalach": "<class 'float'>",
+    "exang": "<class 'int'>",
+    "oldpeak": "<class 'float'>",
+    "slope": "<class 'int'>",
+    "ca": "<class 'float'>",
+    "thal": "<class 'int'>"
+  },
+  "sklearn_version": "1.6.1",
+  "numpy_version": "2.0.2",
+  "pandas_version": "2.2.2"
+}

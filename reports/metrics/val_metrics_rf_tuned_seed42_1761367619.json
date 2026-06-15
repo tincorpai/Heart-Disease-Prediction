@@ -1,0 +1,13 @@
+{
+  "run_id": "rf_tuned_seed42_1761367619",
+  "val_auc": 0.9565217391304348,
+  "val_ap": 0.9586527038223387,
+  "best_params": {
+    "model__n_estimators": 200,
+    "model__min_samples_split": 10,
+    "model__min_samples_leaf": 3,
+    "model__max_features": "sqrt",
+    "model__max_depth": 4,
+    "model__class_weight": "balanced"
+  }
+}
